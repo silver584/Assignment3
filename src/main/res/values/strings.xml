@@ -1,0 +1,11 @@
+<resources>
+    <!-- Button Text -->
+    <string name="start_button_text">Start</string>
+
+    <!-- Content Description for Logo -->
+    <string name="app_logo_description">ParkInfo App Logo</string>
+
+
+    <!-- 应用名称 -->
+    <string name="app_name">ParkInfo</string>
+</resources>
